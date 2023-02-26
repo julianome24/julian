@@ -1,0 +1,14 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+        margin: 0;
+        background: url(img/fondo.jpg.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+       }
+.flex-container {
+        display: flex;
+        flex-direction: row;
+        padding-left: 30px;
+        justify-content: space-around;
+        flex-wrap: wrap;
+      }
